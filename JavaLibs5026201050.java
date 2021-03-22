@@ -24,6 +24,7 @@ public class JavaLibs5026201050{
 		System.out.println(substraction);
 		System.out.println(multiplication);
 		System.out.println(division);
+		System.out.println("In this dialog, I try to converse interactively with user to get some few basic information from them and give some Math Pop Quiz. I actually want to do more on the Math Pop Quiz and I've tried too, but I'm still confused how to do so. I hope once i get more knowledge I can make this dialog more perfect! Overall, this exercise is really fun");
 	}
 }
 	
